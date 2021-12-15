@@ -22,6 +22,6 @@ Causal Inference, Nonparametric Statistics
 2. Ai C., **Huang L**. and Zhang Z. (2022). A Simple and Efficient Estimation of Average Treatment Effects in Models with Unmeasured Confounders. Statistica Sinica. 32(3)[Link](http://cn.arxiv.org/pdf/1807.05678v1)
 3.Huang L. and Zhang Z. (2021). Nonparametric Estimation of General Mediation Effects by Calibration Weighting. Submitted.
 ### Working Paper
-Huang L. and Zhang Z. (2022). The Granger noncausilty test with mutual information.
-Huang L. and Zhang Z. (2022). Efficient estimation of ATE with Distributional balancing.
+1. Huang L. and Zhang Z. (2022). The Granger noncausilty test with mutual information.
+2. Huang L. and Zhang Z. (2022). Efficient estimation of ATE with Distributional balancing.
 
