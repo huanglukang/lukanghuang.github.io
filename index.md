@@ -1,6 +1,6 @@
 Dr. Lukang Huang (黄露康）   
 
-Assitant Proffesor
+Assitant Professor
 
 School of Statistics and Data Science   Nankai University, Tianjin, China
 
