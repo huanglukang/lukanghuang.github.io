@@ -10,7 +10,7 @@ Office: Room 126A, Fansun Building
 
 Email: lkhuang [at] nankai [dot] edu [dot] cn
 
-### Research Interest
+### Research Interests
 Causal Inference, Nonparametric Statistics
 ### Teaching
 - 2021年秋季学期 数学分析I习题课  本科生核心基础课
