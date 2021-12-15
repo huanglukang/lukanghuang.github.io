@@ -20,7 +20,7 @@ Causal Inference, Nonparametric Statistics
 1. Ai C., **Huang L**. and Zhang Z. (2020). A Mann-Whitney Test of Distributional Effects in A Multivalued Treatment. Journal of Statistical Planning and Inference. 209,85-100. [Link](A Mann-Whitney Test of Distributional Effects in A Multivalued Treatment
 )
 2. Ai C., **Huang L**. and Zhang Z. (2022). A Simple and Efficient Estimation of Average Treatment Effects in Models with Unmeasured Confounders. Statistica Sinica. 32(3)[Link](http://cn.arxiv.org/pdf/1807.05678v1)
-3.Huang L. and Zhang Z. (2021). Nonparametric Estimation of General Mediation Effects by Calibration Weighting. Submitted.
+3. Huang L. and Zhang Z. (2021). Nonparametric Estimation of General Mediation Effects by Calibration Weighting. Submitted.
 ### Working Paper
 1. Huang L. and Zhang Z. (2022). The Granger noncausilty test with mutual information.
 2. Huang L. and Zhang Z. (2022). Efficient estimation of ATE with Distributional balancing.
