@@ -1,3 +1,12 @@
+Dr. Lukang Huang (黄露康）
+Assitant Proffesor
+School of Statistics and Data Science
+Nankai University
+Tianjin, China
+Office: Room 126A, Fansun Building
+Email: lkhuang [at] nankai [dot] edu [dot] cn
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/huanglukang/lukanghuang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
