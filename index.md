@@ -1,9 +1,15 @@
 Dr. Lukang Huang (黄露康）
+
 Assitant Proffesor
+
 School of Statistics and Data Science
+
 Nankai University
+
 Tianjin, China
+
 Office: Room 126A, Fansun Building
+
 Email: lkhuang [at] nankai [dot] edu [dot] cn
 
 
