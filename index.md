@@ -2,9 +2,7 @@ Dr. Lukang Huang (黄露康）
 
 Assitant Proffesor
 
-School of Statistics and Data Science   Nankai University
-
-Tianjin, China
+School of Statistics and Data Science   Nankai University  Tianjin, China
 
 Office: Room 126A, Fansun Building
 
